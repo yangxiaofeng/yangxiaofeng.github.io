@@ -27,7 +27,7 @@ layout: default
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.2}}px, (min-width: 576px) 20vw, 70vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true width="300" height="300"
+            cache_bust=true max-width="300px" max-height="300px" style="object-fit: contain;"
           %}
         {% endif %}
         {% if page.profile.more_info %}
