@@ -24,11 +24,10 @@ layout: default
           {% else %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
-          {% assign profile_image_style = 'max-height: 300px; width: auto;' %}
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.2}}px, (min-width: 576px) 20vw, 70vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true style=profile_image_style
+            cache_bust=true 
           %}
         {% endif %}
         {% if page.profile.more_info %}
