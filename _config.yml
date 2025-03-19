@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Xiaofeng Yang # the website title (if blank, full name will be used instead)
+first_name: Xiaofeng
+middle_name: 
+last_name: Yang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can reach me at xiaofeng.yang.sg@gmail.com or +65 96127491
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Research Fellow at NTU Singapore, focusing on generative models, 3D generation, and multimodal learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Xiaofeng Yang # blog_name will be displayed in your blog page
+blog_description: Research in Computer Vision and Machine Learning
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
