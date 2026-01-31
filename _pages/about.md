@@ -24,6 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Research Fellow in NTU Singapore. I received my Ph.D. in Computer Science from Nanyang
-Technological University, where I was advised by Prof. Guosheng Lin. Prior to this, I obtained my Bachelor degree from NTU as well. My research interests include generative model theories (diffusion, flow matching), 3D generative models, post-training of diffusion models and multimodal learning.
-
+I am currently a Research Fellow at Nanyang Technological University (NTU), Singapore. I received my Ph.D. in Computer Science from NTU. Prior to this, I obtained my Bachelor’s degree from NTU as well. My research interests
+include computer vision, generative modeling (diffusion, flow matching), and multimodal vision-language learning; published in top-tier venues (ICLR/ICML/CVPR/ECCV/AAAI).
