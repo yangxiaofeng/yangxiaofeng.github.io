@@ -351,8 +351,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-our-work-text-to-image-rectified-flow-as-plug-and-play-priors-is-accepted-to-iclr-2025",
-          title: 'Our work “Text-to-Image Rectified Flow as Plug-and-Play Priors” is accepted to ICLR 2025....',
+            },},{id: "news-our-work-adaptive-piecewise-distillation-for-efficient-lidar-data-generation-is-accepted-to-aaai-26-oral-layout-post-date-2025-02-02-15-59-00-0400-inline-true-related-posts-false-our-work-text-to-image-rectified-flow-as-plug-and-play-priors-is-accepted-to-iclr-2025",
+          title: 'Our work “Adaptive Piecewise Distillation for Efficient LiDAR Data Generation” is accepted to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
