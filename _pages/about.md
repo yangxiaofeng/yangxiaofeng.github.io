@@ -24,5 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Research Fellow at Nanyang Technological University (NTU), Singapore. I received my Ph.D. in Computer Science from NTU. Prior to this, I obtained my Bachelor’s degree from NTU as well. My research interests
+I am currently a Machine Learning Engineer at Apple. I did my Ph.D. and Post Doc in NTU. Prior to this, I obtained my Bachelor’s degree from NTU as well. My research interests
 include computer vision, generative modeling (diffusion, flow matching), and multimodal vision-language learning.
