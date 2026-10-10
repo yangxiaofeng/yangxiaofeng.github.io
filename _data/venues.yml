@@ -1,9 +1,29 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Badge colors for publication venues (matched against the `abbr` field in papers.bib)
+"ICLR":
+  url: https://iclr.cc/
+  color: "#b31b1b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICML":
+  url: https://icml.cc/
+  color: "#c25e00"
 
-"Vision":
-  color: "#009f36"
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#1f6f43"
+
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#0b7285"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#5f3dc4"
+
+"TCSVT":
+  color: "#2c3e8f"
+
+"TMM":
+  color: "#495057"
+
+"KBS":
+  color: "#8c6d1f"
